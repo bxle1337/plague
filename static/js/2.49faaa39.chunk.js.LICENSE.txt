@@ -4,37 +4,6 @@ object-assign
 @license MIT
 */
 
-/*!
-      Copyright (c) 2015 Jed Watson.
-      Based on code that is Copyright 2013-2015, Facebook, Inc.
-      All rights reserved.
-    */
-
-/*!
-  Copyright (c) 2015 Jed Watson.
-  Based on code that is Copyright 2013-2015, Facebook, Inc.
-  All rights reserved.
-*/
-
-/*!
- * Intro.js v4.3.0
- * https://introjs.com
- *
- * Copyright (C) 2012-2021 Afshin Mehrabani (@afshinmeh).
- * https://raw.githubusercontent.com/usablica/intro.js/master/license.md
- *
- * Date: Sat, 06 Nov 2021 14:22:05 GMT
- */
-
-/*!
- * css-keyframer
- * Dynamic css animation keyframes Manipulation library.
- *
- * @author tsuyoshiwada
- * @license MIT
- * @version 1.0.1
- */
-
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
@@ -44,8 +13,8 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.2
- * react-dom-server.browser.production.min.js
+/** @license React v16.13.1
+ * react-is.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
